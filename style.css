@@ -1,0 +1,16 @@
+
+
+
+#navbarNav{
+    display: flex;
+justify-content: end;
+
+}
+.nav-item{
+    font-weight: bolder;
+    font-size: 15px;
+}
+img {
+height: 500px;
+width: 100px;
+}
